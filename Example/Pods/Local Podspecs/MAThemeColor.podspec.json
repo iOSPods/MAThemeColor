@@ -1,0 +1,22 @@
+{
+  "name": "MAThemeColor",
+  "version": "0.1.0",
+  "summary": "A short description of MAThemeColor.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MAThemeColor/MAThemeColor",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MAThemeColor": "mohammed.ayoub@iosdevelopment.info"
+  },
+  "source": {
+    "git": "https://github.com/MAThemeColor/MAThemeColor.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MAThemeColor/Classes/**/*"
+}

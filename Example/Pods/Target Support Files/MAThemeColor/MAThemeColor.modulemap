@@ -1,0 +1,6 @@
+framework module MAThemeColor {
+  umbrella header "MAThemeColor-umbrella.h"
+
+  export *
+  module * { export * }
+}
