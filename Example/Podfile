@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MAThemeColor_Example' do
+  pod 'MAThemeColor', :path => '../'
+
+  target 'MAThemeColor_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
